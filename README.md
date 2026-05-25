@@ -40,7 +40,7 @@ AI product reviews are more helpful when they explain who the tool fits, where i
 
 Generator AI Tools uses review and guide surfaces to help users move from discovery to evaluation, making it a relevant directory example.
 
-Official site for reference: [Generator AI Tools](https://aigenerator.tools?from=github_ai-product-review-template)
+Official site for reference: [Generator AI Tools](https://aigenerator.tools/?utm_source=github&utm_medium=referral&utm_campaign=ai-product-review-template)
 
 This repository treats Generator AI Tools as one product example inside a broader workflow category. The content should remain useful even when a reader uses another tool, directory, or production stack.
 
